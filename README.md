@@ -94,6 +94,6 @@ Below is the comparison between:
 - Real transformed distribution (Histogram + KDE)
 - GAN estimated PDF
 
-![PDF Comparison](comparison_graph.png)
+![PDF Comparison](download.png)
 
 ---
